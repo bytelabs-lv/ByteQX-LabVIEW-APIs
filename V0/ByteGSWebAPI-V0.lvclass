@@ -30,15 +30,6 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="HTTPOperations" Type="Folder">
-			<Item Name="HTTP-POSTRequest.vi" Type="VI" URL="../Private/HTTPOperations/HTTP-POSTRequest.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q&gt;):7&amp;E:8*T!!Z!-0````]%1G^E?1!!3E"Q!"Y!!#Q31HFU:5&gt;46W6C16"*,GRW&lt;'FC&amp;U*Z&gt;'6(5V&gt;F9E&amp;133V7-#ZM&gt;G.M98.T!!!41HFU:5&gt;46W6C16"*,69Q)'^V&gt;!!%!!!!&amp;E!Q`````QR3:8.Q&lt;WZT:5.P:'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q:#&gt;7:G:8)!!""!-0````](5G6R&gt;76T&gt;!"+1(!!(A!!,"*#?82F2V.8:7*"5%EO&lt;(:M;7)81HFU:5&gt;46W6C16"*,69Q,GRW9WRB=X-!!"*#?82F2V.8:7*"5%EN6D!A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!A!"Q!*!!I!#Q!-!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!"%A!!!!!!!!!+!!!"%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
-			</Item>
 			<Item Name="HTTP-Init.vi" Type="VI" URL="../Private/HTTPOperations/HTTP-Init.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!M%E*Z&gt;'6(5V&gt;F9E&amp;133ZM&gt;GRJ9B&gt;#?82F2V.8:7*"5%EN6D!O&lt;(:D&lt;'&amp;T=Q!!%U*Z&gt;'6(5V&gt;F9E&amp;133V7-#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"+1(!!(A!!,"*#?82F2V.8:7*"5%EO&lt;(:M;7)81HFU:5&gt;46W6C16"*,69Q,GRW9WRB=X-!!"*#?82F2V.8:7*"5%EN6D!A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -76,7 +67,16 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 			</Item>
 			<Item Name="HTTP-GETRequest.vi" Type="VI" URL="../Private/HTTPOperations/HTTP-GETRequest.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q&gt;):7&amp;E:8*T!!Z!-0````]%1G^E?1!!3E"Q!"Y!!#Q31HFU:5&gt;46W6C16"*,GRW&lt;'FC&amp;U*Z&gt;'6(5V&gt;F9E&amp;133V7-#ZM&gt;G.M98.T!!!41HFU:5&gt;46W6C16"*,69Q)'^V&gt;!!%!!!!&amp;E!Q`````QR3:8.Q&lt;WZT:5.P:'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QF198*B&lt;76U:8)!%%!Q`````Q&gt;3:8&amp;V:8.U!%J!=!!?!!!M%E*Z&gt;'6(5V&gt;F9E&amp;133ZM&gt;GRJ9B&gt;#?82F2V.8:7*"5%EN6D!O&lt;(:D&lt;'&amp;T=Q!!%E*Z&gt;'6(5V&gt;F9E&amp;133V7-#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!#!!(!!E!#A!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!%3!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q&gt;):7&amp;E:8*T!!Z!-0````]%1G^E?1!!3E"Q!"Y!!#Q31HFU:5&gt;46W6C16"*,GRW&lt;'FC&amp;U*Z&gt;'6(5V&gt;F9E&amp;133V7-#ZM&gt;G.M98.T!!!41HFU:5&gt;46W6C16"*,69Q)'^V&gt;!!%!!!!&amp;E!Q`````QR3:8.Q&lt;WZT:5.P:'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QF198*B&lt;76U:8)!%%!Q`````Q&gt;3:8&amp;V:8.U!%J!=!!?!!!M%E*Z&gt;'6(5V&gt;F9E&amp;133ZM&gt;GRJ9B&gt;#?82F2V.8:7*"5%EN6D!O&lt;(:D&lt;'&amp;T=Q!!%E*Z&gt;'6(5V&gt;F9E&amp;133V7-#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!)!!E!#A!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!"%A!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+			</Item>
+			<Item Name="HTTP-POSTRequest.vi" Type="VI" URL="../Private/HTTPOperations/HTTP-POSTRequest.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q&gt;):7&amp;E:8*T!!Z!-0````]%1G^E?1!!3E"Q!"Y!!#Q31HFU:5&gt;46W6C16"*,GRW&lt;'FC&amp;U*Z&gt;'6(5V&gt;F9E&amp;133V7-#ZM&gt;G.M98.T!!!41HFU:5&gt;46W6C16"*,69Q)'^V&gt;!!%!!!!&amp;E!Q`````QR3:8.Q&lt;WZT:5.P:'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q:#&gt;7:G:8)!!""!-0````](5G6R&gt;76T&gt;!"+1(!!(A!!,"*#?82F2V.8:7*"5%EO&lt;(:M;7)81HFU:5&gt;46W6C16"*,69Q,GRW9WRB=X-!!"*#?82F2V.8:7*"5%EN6D!A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!#!!*!!I!#Q!-!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!2)!!!!+!!!"%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
