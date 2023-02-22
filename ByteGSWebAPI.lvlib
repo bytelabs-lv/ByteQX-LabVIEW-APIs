@@ -11,4 +11,5 @@
 		<Item Name="Test.vi" Type="VI" URL="../V0/Test/Test.vi"/>
 	</Item>
 	<Item Name="ByteGSWebAPI-V0.lvclass" Type="LVClass" URL="../V0/ByteGSWebAPI-V0.lvclass"/>
+	<Item Name="ByteGSWebAPI_New.lvclass" Type="LVClass" URL="../NewAPI/ByteGSWebAPI_New.lvclass"/>
 </Library>
