@@ -13,6 +13,7 @@
 		<Item Name="Tests" Type="Folder" URL="../ByteGSAPIBase/Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="BodyCalibrazioneMisure.ctl" Type="VI" URL="../ByteGSAPIBase/CalibrationMeasurements/BodyCalibrazioneMisure.ctl"/>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
 		<Item Name="Measurement2.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/Measurement2.ctl"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
