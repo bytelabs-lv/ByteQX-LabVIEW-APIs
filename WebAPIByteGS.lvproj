@@ -13,8 +13,10 @@
 		<Item Name="Tests" Type="Folder" URL="../ByteGSAPIBase/Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="AppCal_Output.ctl" Type="VI" URL="../ByteGSAPIBase/ApproveCalibration/AppCal_Output.ctl"/>
 		<Item Name="BodyCalibrazioneMisure.ctl" Type="VI" URL="../ByteGSAPIBase/CalibrationMeasurements/BodyCalibrazioneMisure.ctl"/>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
+		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
 		<Item Name="Measurement2.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/Measurement2.ctl"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
@@ -35,6 +37,7 @@
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
+				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 				<Item Name="ServerParams.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteREST/CfgLoaders/LoaderBase/ServerParams.ctl"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
