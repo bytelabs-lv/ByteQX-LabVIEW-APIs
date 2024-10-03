@@ -16,6 +16,7 @@
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
 		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
 		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
+		<Item Name="Meas_Group_Res_RESP.ctl" Type="VI" URL="../ByteGSAPIBase/MeasurementGroups/TypeDef/Meas_Group_Res_RESP.ctl"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -38,7 +39,6 @@
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
-				<Item Name="ServerParams.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteREST/CfgLoaders/LoaderBase/ServerParams.ctl"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
