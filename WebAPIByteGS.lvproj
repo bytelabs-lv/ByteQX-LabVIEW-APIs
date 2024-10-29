@@ -16,7 +16,9 @@
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
 		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
 		<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreTest.vi"/>
+		<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreUpdateAutomation.vi"/>
 		<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/GetResult.vi"/>
+		<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InfoResult.vi"/>
 		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
 		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
 		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
@@ -32,6 +34,7 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
+				<Item Name="LVStringsAndValuesArrayTypeDef_I32.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_I32.ctl"/>
 				<Item Name="message_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Typedefs/message_cluster.ctl"/>
 				<Item Name="MessageBox.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/Message Box/MessageBox.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
