@@ -24,6 +24,7 @@
 		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
+		<Item Name="UpdateLimsTestStepData.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/UpdateLimsTestStepData.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
