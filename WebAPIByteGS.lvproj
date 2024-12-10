@@ -23,6 +23,8 @@
 		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
 		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
+		<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/SimulatoreStates.ctl"/>
+		<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/SimulatoreStep.vi"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
 		<Item Name="UpdateLimsTestStepData.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/UpdateLimsTestStepData.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
