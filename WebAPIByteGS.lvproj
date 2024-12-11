@@ -14,17 +14,22 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
+		<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/CurrentStep.vi"/>
 		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
 		<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreTest.vi"/>
 		<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreUpdateAutomation.vi"/>
+		<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/FGVTimer.vi"/>
 		<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/GetResult.vi"/>
+		<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/IndexStepsArray.vi"/>
 		<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InfoResult.vi"/>
+		<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/infoStepMini.vi"/>
 		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
 		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
 		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/SimulatoreStates.ctl"/>
 		<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/SimulatoreStep.vi"/>
+		<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/StepSimulationInfo.ctl"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
 		<Item Name="UpdateLimsTestStepData.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/UpdateLimsTestStepData.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
