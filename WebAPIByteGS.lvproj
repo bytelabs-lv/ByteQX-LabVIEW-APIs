@@ -10,28 +10,33 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Dimostratori" Type="Folder">
+			<Item Name="TypeDef" Type="Folder">
+				<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/MachineStates.ctl"/>
+				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SimulatoreStates.ctl"/>
+				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
+			</Item>
+			<Item Name="Utilities" Type="Folder">
+				<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/CurrentStep.vi"/>
+				<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/FGVTimer.vi"/>
+				<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/GetResult.vi"/>
+				<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/IndexStepsArray.vi"/>
+				<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InfoResult.vi"/>
+				<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/infoStepMini.vi"/>
+				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InstrSlugFromIni.vi"/>
+				<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/Pop-up.vi"/>
+			</Item>
+			<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Dimostatore.vi"/>
+			<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreTest.vi"/>
+			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreUpdateAutomation.vi"/>
+			<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/SimulatoreStep.vi"/>
+		</Item>
 		<Item Name="Tests" Type="Folder" URL="../ByteGSAPIBase/Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
-		<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/CurrentStep.vi"/>
-		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
-		<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreTest.vi"/>
-		<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreUpdateAutomation.vi"/>
-		<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/FGVTimer.vi"/>
-		<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/GetResult.vi"/>
-		<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/IndexStepsArray.vi"/>
-		<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InfoResult.vi"/>
-		<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/infoStepMini.vi"/>
-		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
-		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
-		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
-		<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/SimulatoreStates.ctl"/>
-		<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/SimulatoreStep.vi"/>
-		<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/StepSimulationInfo.ctl"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
-		<Item Name="UpdateLimsTestStepData.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/UpdateLimsTestStepData.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
