@@ -13,10 +13,14 @@
 		<Item Name="Dimostratori" Type="Folder">
 			<Item Name="TypeDef" Type="Folder">
 				<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/MachineStates.ctl"/>
+				<Item Name="ProcessStatus.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/ProcessStatus.ctl"/>
 				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SimulatoreStates.ctl"/>
+				<Item Name="StatusControl.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StatusControl.ctl"/>
 				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
 			</Item>
 			<Item Name="Utilities" Type="Folder">
+				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
+				<Item Name="BoolToString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BoolToString.vi"/>
 				<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/CurrentStep.vi"/>
 				<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/FGVTimer.vi"/>
 				<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/GetResult.vi"/>
