@@ -16,6 +16,7 @@
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
 		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
 		<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreTest.vi"/>
+		<Item Name="EXIT.ctl" Type="VI" URL="../TestExample/SQUARE Button/EXIT.ctl"/>
 		<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/GetResult.vi"/>
 		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
 		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
