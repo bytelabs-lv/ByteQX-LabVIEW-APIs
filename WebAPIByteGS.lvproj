@@ -10,17 +10,35 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Dimostratori" Type="Folder">
+			<Item Name="TypeDef" Type="Folder">
+				<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/MachineStates.ctl"/>
+				<Item Name="ProcessStatus.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/ProcessStatus.ctl"/>
+				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SimulatoreStates.ctl"/>
+				<Item Name="StatusControl.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StatusControl.ctl"/>
+				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
+			</Item>
+			<Item Name="Utilities" Type="Folder">
+				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
+				<Item Name="BoolToString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BoolToString.vi"/>
+				<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/CurrentStep.vi"/>
+				<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/FGVTimer.vi"/>
+				<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/GetResult.vi"/>
+				<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/IndexStepsArray.vi"/>
+				<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InfoResult.vi"/>
+				<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/infoStepMini.vi"/>
+				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InstrSlugFromIni.vi"/>
+				<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/Pop-up.vi"/>
+			</Item>
+			<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Dimostatore.vi"/>
+			<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreTest.vi"/>
+			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreUpdateAutomation.vi"/>
+			<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/SimulatoreStep.vi"/>
+		</Item>
 		<Item Name="Tests" Type="Folder" URL="../ByteGSAPIBase/Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
-		<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostatore.vi"/>
-		<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/DimostratoreTest.vi"/>
-		<Item Name="EXIT.ctl" Type="VI" URL="../TestExample/SQUARE Button/EXIT.ctl"/>
-		<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/GetResult.vi"/>
-		<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/InstrSlugFromIni.vi"/>
-		<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/MachineStates.ctl"/>
-		<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Utilities/Pop-up.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -28,12 +46,14 @@
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="ByteREST.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteREST/ByteREST.lvlib"/>
-				<Item Name="ByteSimpleQ.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/ByteSimpleQ.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Create.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Create.vi"/>
+				<Item Name="Dequeue.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Dequeue.vi"/>
+				<Item Name="Enqueue.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Enqueue.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-				<Item Name="message_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Typedefs/message_cluster.ctl"/>
+				<Item Name="LVStringsAndValuesArrayTypeDef_I32.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_I32.ctl"/>
 				<Item Name="MessageBox.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/Message Box/MessageBox.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
