@@ -31,7 +31,6 @@
 				<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/Pop-up.vi"/>
 			</Item>
 			<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Dimostatore.vi"/>
-			<Item Name="DimostratoreCalibrazioni-backup.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreCalibrazioni-backup.vi"/>
 			<Item Name="DimostratoreCalibrazioni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreCalibrazioni.vi"/>
 			<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreTest.vi"/>
 			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreUpdateAutomation.vi"/>
