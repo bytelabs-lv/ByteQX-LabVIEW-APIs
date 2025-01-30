@@ -12,33 +12,36 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Dimostratori" Type="Folder">
 			<Item Name="TypeDef" Type="Folder">
-				<Item Name="CalibrationStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/CalibrationStates.ctl"/>
-				<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/MachineStates.ctl"/>
-				<Item Name="ProcessStatus.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/ProcessStatus.ctl"/>
-				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SimulatoreStates.ctl"/>
-				<Item Name="SlugExpiration.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SlugExpiration.ctl"/>
-				<Item Name="StatusControl.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StatusControl.ctl"/>
-				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
+				<Item Name="CalibrationStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/CalibrationStates.ctl"/>
+				<Item Name="Instruments.ctl" Type="VI" URL="../ByteGSAPIBase/Instruments/Instruments.ctl"/>
+				<Item Name="MachineStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/MachineStates.ctl"/>
+				<Item Name="ProcessStatus.ctl" Type="VI" URL="../Dimostratori/TypeDef/ProcessStatus.ctl"/>
+				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/SimulatoreStates.ctl"/>
+				<Item Name="SlugExpiration.ctl" Type="VI" URL="../Dimostratori/TypeDef/SlugExpiration.ctl"/>
+				<Item Name="StatusControl.ctl" Type="VI" URL="../Dimostratori/TypeDef/StatusControl.ctl"/>
+				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
 			</Item>
 			<Item Name="Utilities" Type="Folder">
-				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
-				<Item Name="BoolToString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BoolToString.vi"/>
-				<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/CurrentStep.vi"/>
-				<Item Name="DisableControls.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/DisableControls.vi"/>
-				<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/FGVTimer.vi"/>
-				<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/GetResult.vi"/>
-				<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/IndexStepsArray.vi"/>
-				<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InfoResult.vi"/>
-				<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/infoStepMini.vi"/>
-				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InstrSlugFromIni.vi"/>
-				<Item Name="MisurazioniString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/MisurazioniString.vi"/>
-				<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/Pop-up.vi"/>
+				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
+				<Item Name="BoolToString.vi" Type="VI" URL="../Dimostratori/Utilities/BoolToString.vi"/>
+				<Item Name="ControlVisibility.vi" Type="VI" URL="../Dimostratori/Utilities/ControlVisibility.vi"/>
+				<Item Name="CurrentStep.vi" Type="VI" URL="../Dimostratori/Utilities/CurrentStep.vi"/>
+				<Item Name="DisableControls.vi" Type="VI" URL="../Dimostratori/Utilities/DisableControls.vi"/>
+				<Item Name="FGVTimer.vi" Type="VI" URL="../Dimostratori/Utilities/FGVTimer.vi"/>
+				<Item Name="GetResult.vi" Type="VI" URL="../Dimostratori/Utilities/GetResult.vi"/>
+				<Item Name="IndexStepsArray.vi" Type="VI" URL="../Dimostratori/Utilities/IndexStepsArray.vi"/>
+				<Item Name="InfoResult.vi" Type="VI" URL="../Dimostratori/Utilities/InfoResult.vi"/>
+				<Item Name="InfoStep.vi" Type="VI" URL="../Dimostratori/Utilities/InfoStep.vi"/>
+				<Item Name="infoStepMini.vi" Type="VI" URL="../Dimostratori/Utilities/infoStepMini.vi"/>
+				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../Dimostratori/Utilities/InstrSlugFromIni.vi"/>
+				<Item Name="MisurazioniString.vi" Type="VI" URL="../Dimostratori/Utilities/MisurazioniString.vi"/>
+				<Item Name="Pop-up.vi" Type="VI" URL="../Dimostratori/Utilities/Pop-up.vi"/>
 			</Item>
-			<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Dimostatore.vi"/>
-			<Item Name="DimostratoreCalibrazioni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreCalibrazioni.vi"/>
-			<Item Name="DimostratoreTest.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreTest.vi"/>
-			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/DimostratoreUpdateAutomation.vi"/>
-			<Item Name="SimulatoreStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/SimulatoreStep.vi"/>
+			<Item Name="Dimostatore.vi" Type="VI" URL="../Dimostratori/Dimostatore.vi"/>
+			<Item Name="DimostratoreCalibrazioni.vi" Type="VI" URL="../Dimostratori/DimostratoreCalibrazioni.vi"/>
+			<Item Name="DimostratoreTest.vi" Type="VI" URL="../Dimostratori/DimostratoreTest.vi"/>
+			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../Dimostratori/DimostratoreUpdateAutomation.vi"/>
+			<Item Name="SimulatoreStep.vi" Type="VI" URL="../Dimostratori/SimulatoreStep.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder" URL="../ByteGSAPIBase/Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -101,7 +104,6 @@
 				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Instruments.ctl" Type="VI" URL="../ByteGSAPIBase/Instruments/Instruments.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
