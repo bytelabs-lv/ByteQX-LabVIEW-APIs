@@ -12,9 +12,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Dimostratori" Type="Folder">
 			<Item Name="TypeDef" Type="Folder">
+				<Item Name="CalibrationStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/CalibrationStates.ctl"/>
 				<Item Name="MachineStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/MachineStates.ctl"/>
 				<Item Name="ProcessStatus.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/ProcessStatus.ctl"/>
 				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SimulatoreStates.ctl"/>
+				<Item Name="SlugExpiration.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SlugExpiration.ctl"/>
 				<Item Name="StatusControl.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StatusControl.ctl"/>
 				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
 			</Item>
@@ -22,12 +24,14 @@
 				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
 				<Item Name="BoolToString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/BoolToString.vi"/>
 				<Item Name="CurrentStep.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/CurrentStep.vi"/>
+				<Item Name="DisableControls.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/DisableControls.vi"/>
 				<Item Name="FGVTimer.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/FGVTimer.vi"/>
 				<Item Name="GetResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/GetResult.vi"/>
 				<Item Name="IndexStepsArray.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/IndexStepsArray.vi"/>
 				<Item Name="InfoResult.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InfoResult.vi"/>
 				<Item Name="infoStepMini.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/infoStepMini.vi"/>
 				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/InstrSlugFromIni.vi"/>
+				<Item Name="MisurazioniString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/MisurazioniString.vi"/>
 				<Item Name="Pop-up.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/Pop-up.vi"/>
 			</Item>
 			<Item Name="Dimostatore.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Dimostatore.vi"/>
@@ -40,12 +44,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
-		<Item Name="CalibrationStates.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/CalibrationStates.ctl"/>
-		<Item Name="DisableControls.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/DisableControls.vi"/>
-		<Item Name="FullTransparentButton.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/FullTransparentButton.ctl"/>
-		<Item Name="MisurazioniString.vi" Type="VI" URL="../ByteGSAPIBase/Dimostratori/Utilities/MisurazioniString.vi"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
-		<Item Name="SlugExpiration.ctl" Type="VI" URL="../ByteGSAPIBase/Dimostratori/TypeDef/SlugExpiration.ctl"/>
 		<Item Name="Temperature.vi" Type="VI" URL="../TestExample/SImulateInstruments/Temperature.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
