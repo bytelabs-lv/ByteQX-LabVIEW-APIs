@@ -33,6 +33,7 @@
 				<Item Name="InfoResult.vi" Type="VI" URL="../Dimostratori/Utilities/InfoResult.vi"/>
 				<Item Name="InfoStep.vi" Type="VI" URL="../Dimostratori/Utilities/InfoStep.vi"/>
 				<Item Name="infoStepMini.vi" Type="VI" URL="../Dimostratori/Utilities/infoStepMini.vi"/>
+				<Item Name="InfoTest.vi" Type="VI" URL="../Dimostratori/Utilities/InfoTest.vi"/>
 				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../Dimostratori/Utilities/InstrSlugFromIni.vi"/>
 				<Item Name="MisurazioniString.vi" Type="VI" URL="../Dimostratori/Utilities/MisurazioniString.vi"/>
 				<Item Name="Pop-up.vi" Type="VI" URL="../Dimostratori/Utilities/Pop-up.vi"/>
