@@ -51,4 +51,4 @@ Thumbs.db
 # labview ignored files
 *.aliases
 *.lvlps
-
+builds/
