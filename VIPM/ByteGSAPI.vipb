@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-31 14:59:30" Modified_Date="2025-02-03 11:14:38" Creator="DavideAntonoea" Comments="" ID="5ea1365e9a01ea9642a3ed1c56c07503">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-31 14:59:30" Modified_Date="2025-02-12 15:29:43" Creator="DavideAntonoea" Comments="" ID="91df17685aafe63e4d946d8016cfbd1a">
   <Library_General_Settings>
     <Package_File_Name>Bytelabs_S_r_l_s_lib_ByteGSAPI</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Alessandro Perla</Packager>
       <URL/>
-      <Release_Notes>Primo rilascio</Release_Notes>
+      <Release_Notes>Cambio controllo Workstation da enum a stringa in GetLimsTestsForBench.vi</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -256,7 +256,7 @@
         <Path>..\source\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C44BBB41D2768130A26753AB8153D38B</GUID>
+      <GUID>8B76C49A6678326DF341F3B64384FD66</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -403,7 +403,7 @@
         <Path>..\source\ByteGSAPIBase\MeasurementGroups\GetMeasurementsGroups.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>055AB623431B34D43F17C2DD4A4DE1D1</GUID>
+      <GUID>F9F300F0C3AF08A02B7F00AF941E719A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -508,7 +508,7 @@
         <Path>..\source\ByteGSAPIBase\LimsTestStep\UpdateLimsTestStepValues.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2C3E54C4B85DFF0F9ED9C0DF44D039A</GUID>
+      <GUID>D0236609F41C88BE78A64E3B3B2F800F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -557,7 +557,7 @@
         <Path>..\source\Dimostratori\SimulatoreStep.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>79CF7AE75D9E92647927209D9B1F9988</GUID>
+      <GUID>B6B9F61426F982A7C1AE68686C58D876</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
