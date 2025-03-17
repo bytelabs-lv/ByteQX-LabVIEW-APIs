@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-31 14:59:30" Modified_Date="2025-02-12 15:29:43" Creator="DavideAntonoea" Comments="" ID="91df17685aafe63e4d946d8016cfbd1a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-31 14:59:30" Modified_Date="2025-02-13 16:42:40" Creator="DavideAntonoea" Comments="" ID="40ba33df45c54f388deb91b7339f1539">
   <Library_General_Settings>
     <Package_File_Name>Bytelabs_S_r_l_s_lib_ByteGSAPI</Package_File_Name>
     <Library_Version>1.0.0.3</Library_Version>
@@ -16,7 +16,9 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Additional_External_Dependencies>bytelabs_s_r_l_s_lib_byterest &gt;=1.0.3.1</Additional_External_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -256,7 +258,7 @@
         <Path>..\source\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8B76C49A6678326DF341F3B64384FD66</GUID>
+      <GUID>3C3E0105E35B6AB6DC177D38395361D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -403,7 +405,7 @@
         <Path>..\source\ByteGSAPIBase\MeasurementGroups\GetMeasurementsGroups.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F9F300F0C3AF08A02B7F00AF941E719A</GUID>
+      <GUID>8CDA482476C88A8FF40CB712F8CF5664</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -508,7 +510,7 @@
         <Path>..\source\ByteGSAPIBase\LimsTestStep\UpdateLimsTestStepValues.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0236609F41C88BE78A64E3B3B2F800F</GUID>
+      <GUID>BA21C28DC56AB74C986D16F4489608F9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -557,7 +559,7 @@
         <Path>..\source\Dimostratori\SimulatoreStep.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B6B9F61426F982A7C1AE68686C58D876</GUID>
+      <GUID>4D4FDB44558B7813D4744D07AE4AA420</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
