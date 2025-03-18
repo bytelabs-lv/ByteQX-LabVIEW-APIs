@@ -1,27 +1,26 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{0E26734C-9F4C-4FF8-89DB-1E1792B856E7}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI0</Property>
-	<Property Name="varPersistentID:{14EC6275-713A-46C1-B5BD-3A8AE40D2C1E}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD0</Property>
-	<Property Name="varPersistentID:{405E498F-9B2B-4C53-A5EB-41D45C2C4E4F}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI1</Property>
-	<Property Name="varPersistentID:{59E4DC86-6A22-44A7-9F32-BBADF92CF36A}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD2</Property>
-	<Property Name="varPersistentID:{5A601559-A312-47BA-803F-1BFC6F28B218}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD1</Property>
-	<Property Name="varPersistentID:{5B8A044E-598E-4590-A2B4-5C64CD84D14C}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI13</Property>
-	<Property Name="varPersistentID:{5BF81A6C-B87D-4052-9D14-E28CDDA90F7B}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI15</Property>
-	<Property Name="varPersistentID:{5E5A4D3B-79FE-447E-A9C5-926FBFAF84B5}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI4</Property>
-	<Property Name="varPersistentID:{672B3999-B5DE-4A73-A295-A141C12C9601}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI5</Property>
-	<Property Name="varPersistentID:{6AFDB01A-3EEC-4CAC-8378-02B084EB0848}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI11</Property>
-	<Property Name="varPersistentID:{6B95DE5D-252A-487B-BBB0-9E25D6A42407}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD3</Property>
-	<Property Name="varPersistentID:{74700BA6-DF0C-47B8-995E-3FC866285077}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI8</Property>
-	<Property Name="varPersistentID:{7BC57135-85D9-4F19-AC7E-60A9167B64F1}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI7</Property>
-	<Property Name="varPersistentID:{CB36AB36-E840-4872-815B-A2D612C215AF}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI3</Property>
-	<Property Name="varPersistentID:{D141C551-8E82-455E-9F9F-575CD89C0EE2}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI12</Property>
-	<Property Name="varPersistentID:{D47CBF07-AAD7-4275-9CB7-FC63E89F81FF}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI6</Property>
-	<Property Name="varPersistentID:{D7B91B35-FE0C-4A90-9297-3527264095FF}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI9</Property>
-	<Property Name="varPersistentID:{DC5BEAE9-F0E8-4B67-96D9-1597C0F0F933}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI2</Property>
-	<Property Name="varPersistentID:{DEB6A9AF-98F2-480D-B40B-61D27E7B9C73}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI14</Property>
-	<Property Name="varPersistentID:{F9B5B04D-7387-4970-A2FA-0C44DB3DAD0B}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI10</Property>
+	<Property Name="varPersistentID:{13D89F89-8B7E-4CA0-847B-36EDD8AF888B}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI13</Property>
+	<Property Name="varPersistentID:{2B53658A-0104-4497-A48D-E8FFAF9C17AE}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI4</Property>
+	<Property Name="varPersistentID:{36A02F38-DE86-4295-8A60-35F8B46BAEDE}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI11</Property>
+	<Property Name="varPersistentID:{47F42880-8FF9-4C2E-B54E-500752FE0FAF}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI9</Property>
+	<Property Name="varPersistentID:{5464B32E-45FB-479D-B880-6AD2D1CB8E96}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI15</Property>
+	<Property Name="varPersistentID:{6D41AD1B-D2AB-4714-93C7-0DAA77D8460A}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI0</Property>
+	<Property Name="varPersistentID:{766DCEBE-635A-4C1B-847E-AB3223F3A6BC}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI14</Property>
+	<Property Name="varPersistentID:{84C03068-2609-4230-B7DA-320567D6E093}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD0</Property>
+	<Property Name="varPersistentID:{850A3C59-3881-4F85-9C65-C0AFE78DA528}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI1</Property>
+	<Property Name="varPersistentID:{96E1191F-FC39-4A6B-85E8-4B930E38503C}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI3</Property>
+	<Property Name="varPersistentID:{98936D7E-8A30-4218-8833-6AE6CA7E3ED6}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI6</Property>
+	<Property Name="varPersistentID:{9940BF8B-AA6B-4EFE-809A-33042BF2F40A}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI5</Property>
+	<Property Name="varPersistentID:{9CA4DB94-528D-48E9-A72F-A56BFF649C30}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI7</Property>
+	<Property Name="varPersistentID:{B22ACE5B-AD0C-48EA-B948-1F67D5C052B1}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI12</Property>
+	<Property Name="varPersistentID:{B5AA3E51-49DD-417F-A8B2-0BEFD811C419}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD3</Property>
+	<Property Name="varPersistentID:{BCDD3CDA-6F0B-43E6-B48F-D6DBC8BAD2DA}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD2</Property>
+	<Property Name="varPersistentID:{BE129199-4A8B-4E65-B618-E52B74462741}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI2</Property>
+	<Property Name="varPersistentID:{C0C26E9B-8031-45CC-B05E-A0F28D7E1ACC}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI8</Property>
+	<Property Name="varPersistentID:{C7A34191-541E-4743-BE5C-71CD2ED2E2CC}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod1/RTD1</Property>
+	<Property Name="varPersistentID:{CB8E88B5-121E-45AC-9271-1BC6ADAD38F0}" Type="Ref">/NI-cRIO-9063-01cab0da/Chassis/Real-Time Scan Resources/Mod2/AI10</Property>
 	<Item Name="My Computer" Type="My Computer">
-		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -31,127 +30,84 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Dimostratori" Type="Folder">
-			<Item Name="TypeDef" Type="Folder">
-				<Item Name="CalibrationStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/CalibrationStates.ctl"/>
-				<Item Name="Instruments.ctl" Type="VI" URL="../ByteGSAPIBase/Instruments/Instruments.ctl"/>
-				<Item Name="MachineStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/MachineStates.ctl"/>
-				<Item Name="ProcessStatus.ctl" Type="VI" URL="../Dimostratori/TypeDef/ProcessStatus.ctl"/>
-				<Item Name="SimulatoreStates.ctl" Type="VI" URL="../Dimostratori/TypeDef/SimulatoreStates.ctl"/>
-				<Item Name="SlugExpiration.ctl" Type="VI" URL="../Dimostratori/TypeDef/SlugExpiration.ctl"/>
-				<Item Name="StatusControl.ctl" Type="VI" URL="../Dimostratori/TypeDef/StatusControl.ctl"/>
-				<Item Name="StepSimulationInfo.ctl" Type="VI" URL="../Dimostratori/TypeDef/StepSimulationInfo.ctl"/>
-			</Item>
-			<Item Name="Utilities" Type="Folder">
-				<Item Name="BlinkCurrentProcess.vi" Type="VI" URL="../Dimostratori/Utilities/BlinkCurrentProcess.vi"/>
-				<Item Name="BoolToString.vi" Type="VI" URL="../Dimostratori/Utilities/BoolToString.vi"/>
-				<Item Name="ControlVisibility.vi" Type="VI" URL="../Dimostratori/Utilities/ControlVisibility.vi"/>
-				<Item Name="CurrentStep.vi" Type="VI" URL="../Dimostratori/Utilities/CurrentStep.vi"/>
-				<Item Name="DisableControls.vi" Type="VI" URL="../Dimostratori/Utilities/DisableControls.vi"/>
-				<Item Name="FGVTimer.vi" Type="VI" URL="../Dimostratori/Utilities/FGVTimer.vi"/>
-				<Item Name="GetResult.vi" Type="VI" URL="../Dimostratori/Utilities/GetResult.vi"/>
-				<Item Name="IndexStepsArray.vi" Type="VI" URL="../Dimostratori/Utilities/IndexStepsArray.vi"/>
-				<Item Name="InfoResult.vi" Type="VI" URL="../Dimostratori/Utilities/InfoResult.vi"/>
-				<Item Name="InfoStep.vi" Type="VI" URL="../Dimostratori/Utilities/InfoStep.vi"/>
-				<Item Name="infoStepMini.vi" Type="VI" URL="../Dimostratori/Utilities/infoStepMini.vi"/>
-				<Item Name="InfoTest.vi" Type="VI" URL="../Dimostratori/Utilities/InfoTest.vi"/>
-				<Item Name="InstrSlugFromIni.vi" Type="VI" URL="../Dimostratori/Utilities/InstrSlugFromIni.vi"/>
-				<Item Name="MisurazioniString.vi" Type="VI" URL="../Dimostratori/Utilities/MisurazioniString.vi"/>
-				<Item Name="Pop-up.vi" Type="VI" URL="../Dimostratori/Utilities/Pop-up.vi"/>
-			</Item>
-			<Item Name="Dimostatore.vi" Type="VI" URL="../Dimostratori/Dimostatore.vi"/>
-			<Item Name="DimostratoreCalibrazioni.vi" Type="VI" URL="../Dimostratori/DimostratoreCalibrazioni.vi"/>
-			<Item Name="DimostratoreTest.vi" Type="VI" URL="../Dimostratori/DimostratoreTest.vi"/>
-			<Item Name="DimostratoreUpdateAutomation.vi" Type="VI" URL="../Dimostratori/DimostratoreUpdateAutomation.vi"/>
-			<Item Name="SimulatoreStep.vi" Type="VI" URL="../Dimostratori/SimulatoreStep.vi"/>
+		<Item Name="Host" Type="Folder">
+			<Item Name="ChannelSettings.vi" Type="VI" URL="../Host/ChannelSettings.vi"/>
+			<Item Name="Host.vi" Type="VI" URL="../Host/Host.vi"/>
 		</Item>
-		<Item Name="cRio" Type="Folder">
-			<Item Name="TypeDefs" Type="Folder">
-				<Item Name="TCPMessage.ctl" Type="VI" URL="../cRio/TypeDef/TCPMessage.ctl"/>
-				<Item Name="ChannelInfo.ctl" Type="VI" URL="../cRio/TypeDef/ChannelInfo.ctl"/>
-				<Item Name="listChannel.ctl" Type="VI" URL="../cRio/TypeDef/listChannel.ctl"/>
-				<Item Name="SubPanelType.ctl" Type="VI" URL="../cRio/TypeDef/SubPanelType.ctl"/>
-				<Item Name="update_channels_list.ctl" Type="VI" URL="../cRio/TypeDef/update_channels_list.ctl"/>
-			</Item>
-			<Item Name="Host" Type="Folder">
-				<Item Name="ChannelSettings.vi" Type="VI" URL="../cRio/Host/ChannelSettings.vi"/>
-				<Item Name="Host.vi" Type="VI" URL="../cRio/Host/Host.vi"/>
-			</Item>
+		<Item Name="TypeDefs" Type="Folder">
+			<Item Name="aquire.ctl" Type="VI" URL="../TypeDef/aquire.ctl"/>
+			<Item Name="ChannelInfo.ctl" Type="VI" URL="../../../C-RIO test/TypeDef/ChannelInfo.ctl"/>
+			<Item Name="listChannel.ctl" Type="VI" URL="../TypeDef/listChannel.ctl"/>
+			<Item Name="StepList.ctl" Type="VI" URL="../TypeDef/StepList.ctl"/>
+			<Item Name="SubPanelType.ctl" Type="VI" URL="../TypeDef/SubPanelType.ctl"/>
+			<Item Name="TCPMessage.ctl" Type="VI" URL="../TypeDef/TCPMessage.ctl"/>
+			<Item Name="update_channels_list.ctl" Type="VI" URL="../TypeDef/update_channels_list.ctl"/>
 		</Item>
-		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
-		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
-		<Item Name="BenchFromIni.vi" Type="VI" URL="../Dimostratori/Utilities/BenchFromIni.vi"/>
+		<Item Name="ChannelSettings.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/ChannelSettingsLib/ChannelSettings.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
-				<Item Name="Assert Block Data Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Block Data Type.vim"/>
+				<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/{Package_File_Name}/ByteGSWebAPI.lvlib"/>
 				<Item Name="ByteREST.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteREST/ByteREST.lvlib"/>
+				<Item Name="ByteSimpleQ.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/ByteSimpleQ.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="CloseActiveSubPanel.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/CloseActiveSubPanel.vi"/>
+				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
+				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
+				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
+				<Item Name="DeleteChannelConfirmation.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/DeleteChannelConfirmation.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="ExitChannelSettings.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/ExitChannelSettings.vi"/>
+				<Item Name="FindCloseTagByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindCloseTagByName.vi"/>
+				<Item Name="FindElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElement.vi"/>
+				<Item Name="FindElementStartByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElementStartByName.vi"/>
+				<Item Name="FindEmptyElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindEmptyElement.vi"/>
+				<Item Name="FindFirstTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindFirstTag.vi"/>
+				<Item Name="FindMatchingCloseTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindMatchingCloseTag.vi"/>
+				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
+				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
+				<Item Name="Instruments.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/{Package_File_Name}/ByteGSAPIBase/Instruments/Instruments.ctl"/>
+				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-				<Item Name="LVStringsAndValuesArrayTypeDef_I32.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_I32.ctl"/>
-				<Item Name="MessageBox.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/Message Box/MessageBox.lvlib"/>
+				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
+				<Item Name="message_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Typedefs/message_cluster.ctl"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
+				<Item Name="Open_Create_Replace File.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/Open_Create_Replace File.vi"/>
+				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
 				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
-				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
-				<Item Name="Sort 2D Array - Pop Stack.vi" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 2D Array - Pop Stack.vi"/>
-				<Item Name="Sort 2D Array - Push Stack.vi" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 2D Array - Push Stack.vi"/>
-				<Item Name="Sort 2D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 2D Array.vim"/>
+				<Item Name="Read From XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(array).vi"/>
+				<Item Name="Read From XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(string).vi"/>
+				<Item Name="Read From XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
-				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
+				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
+				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
+				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
+				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
+				<Item Name="TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteTCP/TCP.lvlib"/>
+				<Item Name="TreeFirstitem.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/TreeFirstitem.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
-				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
-				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
-				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
-				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
-				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
-				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
-				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
-				<Item Name="Read From XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File.vi"/>
-				<Item Name="Read From XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(array).vi"/>
-				<Item Name="Open_Create_Replace File.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/Open_Create_Replace File.vi"/>
-				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
-				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
-				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
-				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
-				<Item Name="FindFirstTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindFirstTag.vi"/>
-				<Item Name="FindEmptyElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindEmptyElement.vi"/>
-				<Item Name="FindElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElement.vi"/>
-				<Item Name="FindMatchingCloseTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindMatchingCloseTag.vi"/>
-				<Item Name="FindCloseTagByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindCloseTagByName.vi"/>
-				<Item Name="FindElementStartByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElementStartByName.vi"/>
-				<Item Name="Read From XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(string).vi"/>
-				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
-				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
-				<Item Name="ByteSimpleQ.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/ByteSimpleQ.lvlib"/>
-				<Item Name="TreeFirstitem.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/TreeFirstitem.vi"/>
-				<Item Name="message_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Typedefs/message_cluster.ctl"/>
-				<Item Name="ExitChannelSettings.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/ExitChannelSettings.vi"/>
-				<Item Name="CloseActiveSubPanel.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/CloseActiveSubPanel.vi"/>
-				<Item Name="DeleteChannelConfirmation.vi" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/Examples/AquisitionTest/Utils/DeleteChannelConfirmation.vi"/>
-				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
-				<Item Name="TCP.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteTCP/TCP.lvlib"/>
-				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
-				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
-				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
-				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
-				<Item Name="ChannelSettings.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/ChannelSettingsLib/ChannelSettings.lvlib"/>
+				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
+				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
@@ -236,8 +192,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="RT" Type="Folder">
-			<Item Name="FGVTimer.vi" Type="VI" URL="../cRio/RT/FGVTimer.vi"/>
-			<Item Name="RealTime.vi" Type="VI" URL="../cRio/RT/RealTime.vi"/>
+			<Item Name="RealTime.vi" Type="VI" URL="../RT/RealTime.vi"/>
 		</Item>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
@@ -646,10 +601,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
-				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/{Package_File_Name}/ByteGSWebAPI.lvlib"/>
 				<Item Name="ByteREST.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteREST/ByteREST.lvlib"/>
 				<Item Name="ByteSimpleQ.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/ByteSimpleQ.lvlib"/>
-				<Item Name="ChannelSettings.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteChannelsSetting/ChannelSettingsLib/ChannelSettings.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
@@ -657,9 +611,16 @@ AddOutputFilter chunkFilter
 				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="FindCloseTagByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindCloseTagByName.vi"/>
+				<Item Name="FindElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElement.vi"/>
+				<Item Name="FindElementStartByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElementStartByName.vi"/>
+				<Item Name="FindEmptyElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindEmptyElement.vi"/>
+				<Item Name="FindFirstTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindFirstTag.vi"/>
+				<Item Name="FindMatchingCloseTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindMatchingCloseTag.vi"/>
 				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
+				<Item Name="Instruments.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/{Package_File_Name}/ByteGSAPIBase/Instruments/Instruments.ctl"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
@@ -672,12 +633,16 @@ AddOutputFilter chunkFilter
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
 				<Item Name="Open_Create_Replace File.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/Open_Create_Replace File.vi"/>
+				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
 				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
+				<Item Name="Read From XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(array).vi"/>
+				<Item Name="Read From XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(string).vi"/>
+				<Item Name="Read From XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
@@ -693,11 +658,13 @@ AddOutputFilter chunkFilter
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
 			</Item>
-			<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
-			<Item Name="ChannelInfo.ctl" Type="VI" URL="../cRio/TypeDef/ChannelInfo.ctl"/>
-			<Item Name="Instruments.ctl" Type="VI" URL="../ByteGSAPIBase/Instruments/Instruments.ctl"/>
+			<Item Name="aquire.ctl" Type="VI" URL="../TypeDef/aquire.ctl"/>
+			<Item Name="ChannelInfo.ctl" Type="VI" URL="../../../C-RIO test/TypeDef/ChannelInfo.ctl"/>
+			<Item Name="FGVTimer.vi" Type="VI" URL="../RT/FGVTimer.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="TCPMessage.ctl" Type="VI" URL="../cRio/TypeDef/TCPMessage.ctl"/>
+			<Item Name="StepList.ctl" Type="VI" URL="../TypeDef/StepList.ctl"/>
+			<Item Name="TCPMessage.ctl" Type="VI" URL="../../../C-RIO test/TypeDef/TCPMessage.ctl"/>
+			<Item Name="update_channels_list.ctl" Type="VI" URL="../TypeDef/update_channels_list.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
