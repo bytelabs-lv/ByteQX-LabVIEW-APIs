@@ -47,6 +47,7 @@
 		</Item>
 		<Item Name="ByteGSWebAPI.lvlib" Type="Library" URL="../ByteGSWebAPI.lvlib"/>
 		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
+		<Item Name="BenchFromIni.vi" Type="VI" URL="../Dimostratori/Utilities/BenchFromIni.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
