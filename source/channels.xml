@@ -35,7 +35,7 @@
 <Refnum>
 <Name>data_buffer</Name>
 <RefKind>Queue</RefKind>
-<Val>0x9C62696C</Val>
+<Val>0x01500022</Val>
 </Refnum>
 <String>
 <Name>tag</Name>
@@ -68,7 +68,7 @@
 <Refnum>
 <Name>Close Event</Name>
 <RefKind>User Event Refnum</RefKind>
-<Val>0xEBC00006</Val>
+<Val>0x01500009</Val>
 </Refnum>
 <DBL>
 <Name>Id DB</Name>
@@ -106,7 +106,7 @@
 <Refnum>
 <Name>data_buffer</Name>
 <RefKind>Queue</RefKind>
-<Val>0x9C72696D</Val>
+<Val>0x01600023</Val>
 </Refnum>
 <String>
 <Name>tag</Name>
