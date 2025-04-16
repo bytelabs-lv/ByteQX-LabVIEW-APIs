@@ -1,5 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
+	<Property Name="CCSymbols" Type="Str">USE_STAGING,True;</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -45,7 +48,6 @@
 			<Item Name="SimulatoreStep.vi" Type="VI" URL="../Dimostratori/SimulatoreStep.vi"/>
 		</Item>
 		<Item Name="ByteQXWebAPI.lvlib" Type="Library" URL="../ByteQXWebAPI.lvlib"/>
-		<Item Name="Settings.ini" Type="Document" URL="../Settings.ini"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -77,10 +79,6 @@
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
 			</Item>
-			<Item Name="Asset.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/Asset.ctl"/>
-			<Item Name="Step.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/Step.ctl"/>
-			<Item Name="Test.ctl" Type="VI" URL="../ByteGSAPIBase/TypeDef/Test.ctl"/>
-			<Item Name="ByteGSAPIBase.lvclass" Type="LVClass" URL="../ByteGSAPIBase/ByteGSAPIBase.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
