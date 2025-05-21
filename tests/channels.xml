@@ -21,7 +21,7 @@
 <Name>Channels</Name>
 <NumLevels>4</NumLevels>
 <Class>ChannelSettings.lvlib:ChannelsClasses.lvlib:AnalogRio.lvclass</Class>
-<Version>1.0.0.1</Version>
+<Version>1.0.0.3</Version>
 <Version>1.0.0.0</Version>
 <Version>1.0.0.0</Version>
 <Version>1.0.0.3</Version>
@@ -35,7 +35,7 @@
 <Refnum>
 <Name>data_buffer</Name>
 <RefKind>Queue</RefKind>
-<Val>0xD820092B</Val>
+<Val>0xF7104DD3</Val>
 </Refnum>
 <String>
 <Name>tag</Name>
@@ -47,7 +47,7 @@
 </String>
 <String>
 <Name>HW_resource</Name>
-<Val>ni.var.psp://192.168.178.42/Mod2/AI9</Val>
+<Val>ni.var.psp://192.168.178.42/Mod1/RTD0</Val>
 </String>
 <I32>
 <Name>parent index</Name>
@@ -68,7 +68,7 @@
 <Refnum>
 <Name>Close Event</Name>
 <RefKind>User Event Refnum</RefKind>
-<Val>0xC5100009</Val>
+<Val>0xFBA00003</Val>
 </Refnum>
 <DBL>
 <Name>Id DB</Name>
@@ -92,7 +92,7 @@
 <Name>Channels</Name>
 <NumLevels>4</NumLevels>
 <Class>ChannelSettings.lvlib:ChannelsClasses.lvlib:AnalogRio.lvclass</Class>
-<Version>1.0.0.1</Version>
+<Version>1.0.0.3</Version>
 <Version>1.0.0.0</Version>
 <Version>1.0.0.0</Version>
 <Version>1.0.0.3</Version>
@@ -106,7 +106,7 @@
 <Refnum>
 <Name>data_buffer</Name>
 <RefKind>Queue</RefKind>
-<Val>0xD830192A</Val>
+<Val>0xF7202841</Val>
 </Refnum>
 <String>
 <Name>tag</Name>
@@ -118,7 +118,7 @@
 </String>
 <String>
 <Name>HW_resource</Name>
-<Val>ni.var.psp://192.168.178.42/Mod2/AI8</Val>
+<Val>ni.var.psp://192.168.178.42/Mod1/RTD1</Val>
 </String>
 <I32>
 <Name>parent index</Name>
@@ -139,7 +139,7 @@
 <Refnum>
 <Name>Close Event</Name>
 <RefKind>User Event Refnum</RefKind>
-<Val>0xEBC00006</Val>
+<Val>0xFBA00003</Val>
 </Refnum>
 <DBL>
 <Name>Id DB</Name>
