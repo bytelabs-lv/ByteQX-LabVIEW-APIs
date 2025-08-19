@@ -46,6 +46,9 @@
 			<Item Name="TestStepSimulator.vi" Type="VI" URL="../Demos/TestStepSimulator.vi"/>
 			<Item Name="CalibrationManagementDemo.vi" Type="VI" URL="../Demos/CalibrationManagementDemo.vi"/>
 		</Item>
+		<Item Name="Tests" Type="Folder" URL="../Tests">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="ByteQXWebAPI.lvlib" Type="Library" URL="../ByteQXWebAPI.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

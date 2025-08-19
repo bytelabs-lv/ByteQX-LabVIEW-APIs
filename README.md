@@ -1,9 +1,9 @@
 
 # Labview Client for ByteQX REST APIs
 This library allows to communicate with [ByteQX](https://www.byteqx.com/) APIs, in order to save, manage and access instruments and tests saved on the platform.<br>
-Visit [byteqx.com](https://www.byteqx.com/) for more infos about the platfom, or contact their assistance to obtain your access token.
+Visit [byteqx.com](https://www.byteqx.com/) for more infos about the platfom, or contact their helpdesk to obtain your access token.
 ## DEPENDENCIES
-Following dependencies haven't been published yet, so they need to be installed manually. 
+Following dependencies haven't been published yet, so they need to be installed manually.
 * [ByteREST](https://github.com/bytelabs-lv/BLL-byterest/releases/latest/download/bytelabs_s_r_l_s_lib_byterest.vip)
 
 * ![Summer Tour Bytelabs_20250601_184436_0003](https://github.com/user-attachments/assets/b362a86b-1e23-48e8-b996-2a091e25eb04)
