@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="CCSymbols" Type="Str">USE_STAGING,False;</Property>
+	<Property Name="CCSymbols" Type="Str">USE_STAGING,false;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -45,11 +45,13 @@
 			<Item Name="Demo_Ita.vi" Type="VI" URL="../Demos/Demo_Ita.vi"/>
 			<Item Name="TestStepSimulator.vi" Type="VI" URL="../Demos/TestStepSimulator.vi"/>
 			<Item Name="CalibrationManagementDemo.vi" Type="VI" URL="../Demos/CalibrationManagementDemo.vi"/>
+			<Item Name="iLogDemostrator.vi" Type="VI" URL="../../../PR-000182-bonfiglioli_testbench/Source/Data/iLogDemostrator.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder" URL="../Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="ByteQXWebAPI.lvlib" Type="Library" URL="../ByteQXWebAPI.lvlib"/>
+		<Item Name="GetStringFromRing.vi" Type="VI" URL="../Demos/Utilities/GetStringFromRing.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -108,6 +110,8 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="message_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/Typedefs/message_cluster.ctl"/>
+				<Item Name="ByteSimpleQ.lvlib" Type="Library" URL="/&lt;vilib&gt;/Bytelabs/ByteSimpleQ/ByteSimpleQ/ByteSimpleQ.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
