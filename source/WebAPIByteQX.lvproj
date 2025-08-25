@@ -45,7 +45,7 @@
 			<Item Name="Demo_Ita.vi" Type="VI" URL="../Demos/Demo_Ita.vi"/>
 			<Item Name="TestStepSimulator.vi" Type="VI" URL="../Demos/TestStepSimulator.vi"/>
 			<Item Name="CalibrationManagementDemo.vi" Type="VI" URL="../Demos/CalibrationManagementDemo.vi"/>
-			<Item Name="iLogDemostrator.vi" Type="VI" URL="../../../PR-000182-bonfiglioli_testbench/Source/Data/iLogDemostrator.vi"/>
+			<Item Name="iLogDemostrator.vi" Type="VI" URL="../Demos/iLogDemostrator.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder" URL="../Tests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
